@@ -1,11 +1,16 @@
+//By JosÃ© Ignacio Huby Ochoa
+// Lima, PerÃº
+// CS - UTEC
+
+
+
+
+
 #include <unordered_map>
 #include <functional>
 #include <string>
 #include <memory>
 
-//By José Ignacio Huby Ochoa
-// Lima, Perú
-// CS - UTEC
 
 namespace rct {
 
